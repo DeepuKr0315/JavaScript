@@ -1,0 +1,22 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.buttons {
+    margin-top: 4%;
+    background-color: rgb(111, 167, 236);
+    font-size: 3em;
+    padding: 10px 20px;
+    border-radius: 6px;
+}
+
+.label {
+    margin-top: 5%;
+    font-size: 3em;
+}
+
+button:hover{
+    transform: scale(1.2);
+    background-color: rgb(61, 151, 225);
+} 
